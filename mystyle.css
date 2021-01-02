@@ -1,0 +1,31 @@
+<style>
+.tanim{
+    width:100%;
+    height:900px;
+}
+.tnm{
+    border: 5px solid green
+}
+.head{
+    width:100%;
+    height:200px;
+    background-color:peru;
+    font-size: 190px;
+    white-space: pre;
+}
+.body{
+    width:100%;
+    height:500px;
+    background-color:peachpuff;
+    font-size:400px;
+    font-weight: 95%;
+}
+.foot{
+    width:100%;
+    height:200px;
+    background-color:rosybrown;
+    font-size:200px;
+    font-weight: 300px;
+    white-space: pre;
+}
+</style>  
